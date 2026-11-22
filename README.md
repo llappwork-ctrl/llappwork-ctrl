@@ -2,9 +2,9 @@
 
 ### Curious Creator | Bug Detective | Lifelong Learner
 
-I'm exploring software development and quality assurance, one curious question and hands-on experiment at a time!
+I'm exploring software development, quality assurance, and technology through hands-on projects, creative experiments, and a whole lot of curiosity!
 
-My background is in healthcare, where accuracy, documentation, privacy, and understanding people's needs really matter. Now I'm bringing those skills into technology.
+My professional background is in healthcare, where accuracy, documentation, privacy, and understanding people's needs are essential. I'm bringing those skills into technology while learning to build, test, troubleshoot, and improve software.
 
 ## 🔎 Welcome to Laura's Curious Codes!
 
@@ -12,53 +12,60 @@ My background is in healthcare, where accuracy, documentation, privacy, and unde
 
 *Where curiosity meets code, one little mystery at a time.*
 
-This is my creative coding and software QA portfolio, where I'm learning by designing, building, testing, troubleshooting, and occasionally breaking things on purpose.
+My public coding and software QA portfolio is where I experiment with web development, interactive storytelling, debugging, and software testing.
 
-My first project is **The Bug Detective Agency**, an interactive mystery series where visitors investigate software bugs, explore design decisions, and discover how software works.
+### 🕵️ The Bug Detective Agency
 
-Featuring Mabel Quibble, an eccentric witness whose investigative methods are... unconventional.
+*An interactive mystery game where curiosity meets code.*
 
-**Current status:** Portfolio established; first interactive project in planning.
+Join Mabel Quibble in a whimsical detective adventure filled with suspicious clues, peculiar discoveries, and begonias behaving badly.
 
-## 🧪 What I'm Learning
+**🎮 [Play The Bug Detective Agency](https://llappwork-ctrl.github.io/bug-detective-agency/)**
 
-- Python programming and problem-solving
-- HTML, CSS, JavaScript, and interactive web development
-- Manual QA, exploratory testing, and debugging
-- Regression testing and writing test cases
-- VS Code, Git, GitHub, and development workflows
-- How to build, break, understand, and improve software
+**💻 [Explore the Project on GitHub](https://github.com/llappwork-ctrl/lauras-curious-codes)**
+
+Through this project, I'm practicing:
+
+- HTML, CSS, and JavaScript
+- Interactive web design and browser debugging
+- Manual QA and troubleshooting
+- Tracking application state and investigating unexpected behavior
+- Git/GitHub workflows and publishing changes
+- Identifying, correcting, and retesting software defects
+
+I've moved beyond planning into building, investigating, and refining a playable experience.
+
+*Some mysteries are fictional. The debugging practice is real.*
 
 ## 🛠️ What I'm Working On
 
-**Our Bridgeway Journey — Independent Product Project**
+### Our Bridgeway Journey — Independent Product Project
 
-I'm creating and manually testing a Python/Flask web application through AI-assisted development.
+I'm the founder and product owner of a private, AI-assisted Python/Flask web application focused on family communication and coordination.
 
-I guide product design, define expected behavior, test features and permissions, identify bugs, coordinate reviews, and verify corrections.
+My responsibilities include defining requirements, designing workflows, establishing permission expectations, manually testing features, investigating issues, coordinating independent reviews, and approving changes.
 
-This is a private project, and its source code and family information are not part of my public portfolio.
+I work with AI coding assistants for implementation and technical inspection while retaining responsibility for product decisions, acceptance testing, and publication.
 
-**Laura's Curious Codes — Public Learning Portfolio**
+Bridgeway's source code and private family information are not part of my public portfolio.
 
-I'm developing small, original coding and software-testing projects to build my hands-on technical skills.
+### Laura's Curious Codes — Public Learning Portfolio
 
-My goal is to understand the code, make changes myself, investigate problems, and document what I've learned.
+I'm developing my technical skills through original projects, hands-on experiments, and intentionally designed debugging challenges.
 
-I use AI coding assistants as learning partners and distinguish my own contributions from AI-assisted implementation.
+I'm learning to understand code, make changes independently, investigate unexpected behavior, and document what I discover.
 
-## 🌱 A Little About Me
+I believe AI can be a powerful learning and development partner, and I distinguish my personal contributions from AI-assisted implementation.
 
-I'm a mom of three, a curious problem-solver, and someone who genuinely enjoys figuring out how things work.
+## 🧪 Skills I'm Developing
 
-I believe learning gets interesting when something doesn't work the first time.
-
-That's where the detective work begins!
-
-## 📬 Let's Connect
-
-I'm exploring opportunities in entry-level software QA, testing, and technology, especially where my healthcare experience can make a difference.
-
-**[Visit My Portfolio](https://github.com/llappwork-ctrl/lauras-curious-codes)**
+- Manual QA, exploratory testing, and regression testing
+- Bug reproduction, troubleshooting, and debugging
+- HTML, CSS, and JavaScript
+- Python/Flask concepts and web application workflows
+- Chrome DevTools and Visual Studio Code
+- Git, GitHub, and software development workflows
+- Requirements analysis, usability, and software quality
+- AI-assisted development and collaborative technical review
 
 *Curiosity encouraged. Bugs investigated. Begonias under suspicion.* 🌸
